@@ -1,4 +1,4 @@
-[1:24 PM, 6/28/2024] Gaurav B2: import pandas as pd
+import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Create the user-item rating matrix
